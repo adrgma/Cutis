@@ -7,4 +7,5 @@ Aplikasi ini dibuat menggunakan Matlab 2018b.<br>
 Aplikasi ini baru bisa dijalankan pada sistem operasi Windows saja.
 ## APP Logo
 ![splashscreen](https://user-images.githubusercontent.com/45851588/129476442-0d3c58bb-c787-4201-a6b4-615e0296940e.PNG)
+
 Download : https://drive.google.com/file/d/1mCICvZUIu_H7-trGLI8Mxwj63IUGF6BS/view?usp=sharing
